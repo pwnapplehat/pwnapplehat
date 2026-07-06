@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pwnapplehat
-- 👀 I’m interested in AI&ML
+- 👋 Hi, I’m @iOS_hAT
+- 👀 I’m interested in AI Coding (Not Typical Vibe Coding)
 - 🌱 I’m currently learning Something
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: @iOS_hAT (Telegram)
